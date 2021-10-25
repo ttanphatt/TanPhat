@@ -1,0 +1,12 @@
+section{
+    display: flex;
+}
+div.ph{
+    width: 30%;
+}
+div.at{
+    width: 60%;
+}
+.at  img{
+    width: 100%;
+}
